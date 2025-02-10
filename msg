@@ -1,5 +1,5 @@
 {
-    "message": "Welcome! This message is controlled by GitHub.",
+    "message": "Dont use panel.",
     "action": "show",
     "otherSetting": "value"
 }
