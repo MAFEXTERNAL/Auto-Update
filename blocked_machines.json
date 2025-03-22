@@ -1,0 +1,7 @@
+{
+  "blocked_machines": [
+    "BlockedMachine1",
+    "BlockedMachine2",
+    "BlockedMachine3"
+  ]
+}
